@@ -81,6 +81,7 @@ const properties = [
         title: "Trident Hills",
         type: "For Sale",
         price: "Call for price",
+ update-listings-and-hero
         location: "Panchkula Extension",
         beds: 4,
         baths: "4 + Servant Room",
@@ -129,6 +130,26 @@ const properties = [
             "Power Backup",
             "Landscaped Parks & Jogging Tracks",
         ]
+  
+        location: "Panchkula, Haryana",
+        beds: 3,
+        baths: 3,
+        sqft: 1750,
+        description: "A beautiful home in a serene location with modern amenities.",
+        image: "public/images/tridenthills/township from above.jpeg"
+    },
+    {
+        id: 2,
+        title: "DLF Valley Gardens",
+        type: "For Sale",
+        price: "Call for price",
+        location: "Panchkula, Haryana",
+        beds: 3,
+        baths: 3,
+        sqft: 1600,
+        description: "A luxurious apartment with stunning views and world-class facilities.",
+        image: "public/images/dlfvalleygardens/Dlf complex.webp"
+   main
     }
 ];
 
