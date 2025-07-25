@@ -78,39 +78,27 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 const properties = [
     {
         id: 1,
-        title: "Property",
+        title: "Trident Hills",
         type: "For Sale",
-        price: "INR450,000",
-        location: "123 Park Ave, Springfield",
-        beds: 4,
+        price: "Call for price",
+        location: "Panchkula, Haryana",
+        beds: 3,
         baths: 3,
-        sqft: 2400,
-        description: "Beautiful modern home with open floor plan, gourmet kitchen, and spacious backyard.",
-        image: "https://picsum.photos/600/400?random=3"
+        sqft: 1750,
+        description: "A beautiful home in a serene location with modern amenities.",
+        image: "public/images/tridenthills/township from above.jpeg"
     },
     {
         id: 2,
-        title: "Property ",
-        type: "For Rent",
-        price: "$2,800/mo",
-        location: "456 Main St, Springfield",
-        beds: 2,
-        baths: 2,
-        sqft: 1200,
-        description: "Stunning downtown condo with panoramic city views and premium amenities.",
-        image: "https://picsum.photos/600/400?random=4"
-    },
-    {
-        id: 3,
-        title: "Property",
+        title: "DLF Valley Gardens",
         type: "For Sale",
-        price: "$325,000",
-        location: "789 Oak Lane, Springfield",
+        price: "Call for price",
+        location: "Panchkula, Haryana",
         beds: 3,
-        baths: 2.5,
-        sqft: 1800,
-        description: "Charming townhouse in family-friendly neighborhood with community pool.",
-        image: "https://picsum.photos/600/400?random=5"
+        baths: 3,
+        sqft: 1600,
+        description: "A luxurious apartment with stunning views and world-class facilities.",
+        image: "public/images/dlfvalleygardens/Dlf complex.webp"
     }
 ];
 
