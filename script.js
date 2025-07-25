@@ -81,6 +81,56 @@ const properties = [
         title: "Trident Hills",
         type: "For Sale",
         price: "Call for price",
+ update-listings-and-hero
+        location: "Panchkula Extension",
+        beds: 4,
+        baths: "4 + Servant Room",
+        sqft: 3207,
+        description: "Experience luxury living where the hills meet high-end design. These premium builder floors are crafted for families that seek privacy, space, and access to nature — without compromising on urban convenience.",
+        image: "public/images/tridenthills/township from above.jpeg",
+        highlights: [
+            "Spacious 4 BHK Residences + Servant Room with Separate Entry",
+            "3207 sq. ft. Super Area with Grand Layouts & Premium Interiors",
+            "5-Star Clubhouse Facilities with Resort-Style Swimming Pools",
+            "Fully Gated Township with 24x7 Security, CCTV & Manned Entry Points",
+            "Surrounded by Nature – Lush Green Trails, Water Bodies & a Nearby Dam",
+        ],
+        amenities: [
+            "Designer Modular Kitchen",
+            "Wide Balconies with Green Views",
+            "Air-Conditioned Lobbies",
+            "Private Parking",
+            "Power Backup",
+            "Landscaped Parks & Jogging Tracks",
+        ]
+    },
+    {
+        id: 2,
+        title: "DLF Valley Garden",
+        type: "For Sale",
+        price: "Call for price",
+        location: "Panchkula Extension",
+        beds: 4,
+        baths: "4 + Servant Room",
+        sqft: 3207,
+        description: "Whether it’s a morning walk by the nearby dam and water body, or a weekend drive to Kasauli, this is the perfect home for elevated lifestyles.",
+        image: "public/images/dlfvalleygardens/Dlf complex.webp",
+        highlights: [
+            "Ideal for Kids & Families: Walking Trails, Cycling Paths, & Nature Parks",
+            "Located in the Foothills of the Shivalik Range, Minutes from Kasauli",
+            "Part of Integrated Smart Townships – DLF & Trident Hills",
+            "Near Kasauli, Morni Hills, and other hill stations",
+            "Easy access to Chandigarh, Zirakpur, & NH-22",
+        ],
+        amenities: [
+            "Designer Modular Kitchen",
+            "Wide Balconies with Green Views",
+            "Air-Conditioned Lobbies",
+            "Private Parking",
+            "Power Backup",
+            "Landscaped Parks & Jogging Tracks",
+        ]
+  
         location: "Panchkula, Haryana",
         beds: 3,
         baths: 3,
@@ -99,6 +149,7 @@ const properties = [
         sqft: 1600,
         description: "A luxurious apartment with stunning views and world-class facilities.",
         image: "public/images/dlfvalleygardens/Dlf complex.webp"
+   main
     }
 ];
 
