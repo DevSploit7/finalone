@@ -78,39 +78,57 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 const properties = [
     {
         id: 1,
-        title: "Property",
+        title: "Trident Hills",
         type: "For Sale",
-        price: "INR450,000",
-        location: "123 Park Ave, Springfield",
+        price: "Call for price",
+        location: "Panchkula Extension",
         beds: 4,
-        baths: 3,
-        sqft: 2400,
-        description: "Beautiful modern home with open floor plan, gourmet kitchen, and spacious backyard.",
-        image: "https://picsum.photos/600/400?random=3"
+        baths: "4 + Servant Room",
+        sqft: 3207,
+        description: "Experience luxury living where the hills meet high-end design. These premium builder floors are crafted for families that seek privacy, space, and access to nature — without compromising on urban convenience.",
+        image: "public/images/tridenthills/township from above.jpeg",
+        highlights: [
+            "Spacious 4 BHK Residences + Servant Room with Separate Entry",
+            "3207 sq. ft. Super Area with Grand Layouts & Premium Interiors",
+            "5-Star Clubhouse Facilities with Resort-Style Swimming Pools",
+            "Fully Gated Township with 24x7 Security, CCTV & Manned Entry Points",
+            "Surrounded by Nature – Lush Green Trails, Water Bodies & a Nearby Dam",
+        ],
+        amenities: [
+            "Designer Modular Kitchen",
+            "Wide Balconies with Green Views",
+            "Air-Conditioned Lobbies",
+            "Private Parking",
+            "Power Backup",
+            "Landscaped Parks & Jogging Tracks",
+        ]
     },
     {
         id: 2,
-        title: "Property ",
-        type: "For Rent",
-        price: "$2,800/mo",
-        location: "456 Main St, Springfield",
-        beds: 2,
-        baths: 2,
-        sqft: 1200,
-        description: "Stunning downtown condo with panoramic city views and premium amenities.",
-        image: "https://picsum.photos/600/400?random=4"
-    },
-    {
-        id: 3,
-        title: "Property",
+        title: "DLF Valley Garden",
         type: "For Sale",
-        price: "$325,000",
-        location: "789 Oak Lane, Springfield",
-        beds: 3,
-        baths: 2.5,
-        sqft: 1800,
-        description: "Charming townhouse in family-friendly neighborhood with community pool.",
-        image: "https://picsum.photos/600/400?random=5"
+        price: "Call for price",
+        location: "Panchkula Extension",
+        beds: 4,
+        baths: "4 + Servant Room",
+        sqft: 3207,
+        description: "Whether it’s a morning walk by the nearby dam and water body, or a weekend drive to Kasauli, this is the perfect home for elevated lifestyles.",
+        image: "public/images/dlfvalleygardens/Dlf complex.webp",
+        highlights: [
+            "Ideal for Kids & Families: Walking Trails, Cycling Paths, & Nature Parks",
+            "Located in the Foothills of the Shivalik Range, Minutes from Kasauli",
+            "Part of Integrated Smart Townships – DLF & Trident Hills",
+            "Near Kasauli, Morni Hills, and other hill stations",
+            "Easy access to Chandigarh, Zirakpur, & NH-22",
+        ],
+        amenities: [
+            "Designer Modular Kitchen",
+            "Wide Balconies with Green Views",
+            "Air-Conditioned Lobbies",
+            "Private Parking",
+            "Power Backup",
+            "Landscaped Parks & Jogging Tracks",
+        ]
     }
 ];
 
